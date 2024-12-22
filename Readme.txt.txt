@@ -1,0 +1,1 @@
+This is the Backend of Movie Store Web Application build on .Net8 with Entity Framework
